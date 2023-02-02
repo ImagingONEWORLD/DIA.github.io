@@ -1,1 +1,5 @@
 # IOW
+
+## Discussion
+
+### Lecture Series
